@@ -1,0 +1,7 @@
+column,dtype,unique,missing
+id,category,30490,0
+item_id,category,3049,0
+dept_id,category,7,0
+cat_id,category,3,0
+store_id,category,10,0
+state_id,category,3,0

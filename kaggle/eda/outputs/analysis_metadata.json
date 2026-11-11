@@ -1,0 +1,19 @@
+{
+  "competition": "m5-forecasting-accuracy",
+  "stores": [
+    "CA_1",
+    "CA_2",
+    "CA_3"
+  ],
+  "main_sales_file": "sales_train_evaluation.csv",
+  "rows": 30490,
+  "days": 1941,
+  "region_series": 9147,
+  "test_start": "2015-05-24",
+  "test_end": "2016-05-22",
+  "python": "3.13.16",
+  "pandas": "2.3.3",
+  "numpy": "2.1.3",
+  "matplotlib": "3.10.0",
+  "checks_passed": 15
+}

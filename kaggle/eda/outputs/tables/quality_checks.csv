@@ -1,0 +1,16 @@
+check,passed,detail
+unique_series,True,30490
+unique_item_store,True,producto-tienda
+nonnegative_sales,True,0
+no_missing_sales,True,todas las columnas de ventas
+calendar_unique,True,1969
+consecutive_dates,True,1941
+unique_prices,True,6841121
+positive_prices,True,6841121
+three_stores,True,"['CA_1', 'CA_2', 'CA_3']"
+validation_is_prefix,True,30490 series; 1913 días
+regional_reconciliation,True,25014183
+positive_sales_have_price,True,0
+test_365_days,True,"[{'split': 'train', 'start': Timestamp('2011-01-29 00:00:00'), 'end': Timestamp('2015-02-22 00:00:00'), 'days': 1486, 'region_units': 18434873, 'mean_daily_units': 12405.701884253029}, {'split': 'validation', 'start': Timestamp('2015-02-23 00:00:00'), 'end': Timestamp('2015-05-23 00:00:00'), 'days': 90, 'region_units': 1170718, 'mean_daily_units': 13007.977777777778}, {'split': 'test', 'start': Timestamp('2015-05-24 00:00:00'), 'end': Timestamp('2016-05-22 00:00:00'), 'days': 365, 'region_units': 5408592, 'mean_daily_units': 14818.060273972602}]"
+all_days_partitioned,True,1941
+split_disjoint,True,orden cronológico

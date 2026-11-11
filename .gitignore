@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Outputs
+kaggle/eda/outputs/tables/weekly_sales_prices_ca123.csv

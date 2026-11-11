@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "executed_code_cells": 16,
+  "notebook_error_outputs": 0,
+  "inline_png_figures": 9,
+  "downloaded_png_figures": 9,
+  "analytical_csv_files": 31,
+  "quality_checks_passed": 15,
+  "official_csv_hashes_verified": [
+    "calendar.csv",
+    "sales_train_evaluation.csv",
+    "sales_train_validation.csv",
+    "sell_prices.csv",
+    "sample_submission.csv"
+  ]
+}

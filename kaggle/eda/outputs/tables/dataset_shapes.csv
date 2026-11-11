@@ -1,0 +1,5 @@
+file,rows,columns
+sales_train_evaluation.csv,30490,1947
+calendar.csv,1969,14
+sell_prices.csv,6841121,4
+sample_submission.csv,60980,29

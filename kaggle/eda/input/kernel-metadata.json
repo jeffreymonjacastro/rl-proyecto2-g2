@@ -1,0 +1,13 @@
+{
+  "id": "jeffreyamc/rl-p2-m5-official-eda",
+  "title": "RL P2 M5 Official EDA",
+  "code_file": "run_eda.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": ["m5-forecasting-accuracy"],
+  "dataset_sources": [],
+  "kernel_sources": []
+}
